@@ -1,6 +1,8 @@
 
 ### Olá, Me chamo Andressa Almeida 😊
 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@andressaalmeida554?_t=8YEjTIlzvVN&_r=1)
+
 ![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa15alm&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa15alm)](https://github.com/andressa15alm/github-readme-stats)
