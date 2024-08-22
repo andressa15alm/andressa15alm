@@ -2,7 +2,6 @@
 ### Olá, Me chamo Andressa Almeida 😊
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/andressa15alm)
 ### Acesse meu portifolio
-https://andressaalmeida.com/
 
 ![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa15alm&show_icons=true&theme=synthwave)
 
